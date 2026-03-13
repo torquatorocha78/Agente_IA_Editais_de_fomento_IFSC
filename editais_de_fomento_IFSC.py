@@ -206,11 +206,10 @@ def main():
     # Apresentação
     st.markdown("""
     <div class='presentation-box'>
-    <h3>📧 Prezados Coordenadores de Pesquisa e Inovação dos Câmpus</h3>
-    <h3>Prezados Docentes</h3>
+    <h3>📧 Prezado Servidor</h3>
     
-    <p>Você está recebendo este contato pois identificamos que sua formação ou produção científica 
-    poderia se alinhar com oportunidades de fomento à pesquisa.</p>
+    <p>Você pode utilizar este Agente de IA para identificar oportunidades de editais de fomento com inscrições abertas na  sua área de formação ou produção científica 
+    </p>
     
     <p><b>Mantenha seu LATTES sempre atualizado!</b></p>
     
