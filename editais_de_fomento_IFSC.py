@@ -17,7 +17,7 @@ if not api_key:
     st.error("❌ OPENAI_API_KEY não encontrada. Configure a variável de ambiente.")
     st.stop()
 
-client = OpenAI(api_key=api_key))
+client = OpenAI(api_key=api_key)
 
 st.set_page_config(
     page_title="Editais IFSC - Agente de Fomento",
